@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Page Title</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+.blue{
+	color: #66ccff;
+}
+
+.red{
+	color: #ff6666;
+}
+
+</style>
+</head>
+<body>
+
+<span class="red">
+<span class="blue"><</span>
+"head"
+<span class="blue">></span>
+</span>
+
+</body>
+</html>
